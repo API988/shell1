@@ -1,0 +1,9 @@
+[H[2J[3JProgram to Find Fibonacci Series
+How many number of terms to be generated ?
+Fibonacci Series up to 6 terms :
+0
+1
+1
+2
+3
+5
